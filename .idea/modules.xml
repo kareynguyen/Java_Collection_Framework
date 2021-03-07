@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Comparable_Comparator/Comparable_Comparator.iml" filepath="$PROJECT_DIR$/Comparable_Comparator/Comparable_Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap_HashSet/HashMap_HashSet.iml" filepath="$PROJECT_DIR$/HashMap_HashSet/HashMap_HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap_LinkedHashMap_TreeMap/HashMap_LinkedHashMap_TreeMap.iml" filepath="$PROJECT_DIR$/HashMap_LinkedHashMap_TreeMap/HashMap_LinkedHashMap_TreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Install_Binary_Tree/Install_Binary_Tree.iml" filepath="$PROJECT_DIR$/Install_Binary_Tree/Install_Binary_Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Collection_Framework.iml" filepath="$PROJECT_DIR$/Java_Collection_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Main.iml" filepath="$PROJECT_DIR$/Map/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QLHD/QLHD.iml" filepath="$PROJECT_DIR$/QLHD/QLHD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QLHS/QLHS.iml" filepath="$PROJECT_DIR$/QLHS/QLHS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QLKH/QLKH.iml" filepath="$PROJECT_DIR$/QLKH/QLKH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QLKS/QLKS.iml" filepath="$PROJECT_DIR$/QLKS/QLKS.iml" />
+    </modules>
+  </component>
+</project>
